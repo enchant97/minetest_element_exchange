@@ -7,6 +7,11 @@ A [Minetest](https://www.minetest.net/) mod to exchange nodes into other nodes. 
 
 ![In Game Screenshot](screenshot.png)
 
+## Stopping Development
+I am no longer working on this project.
+
+Another user has taken up development of this project and whilst I am not affiliated with this project (nor tested) but seems like a good continuation: <https://github.com/thepython10110/exchangeclone>.
+
 ## Features
 - Orb that holds energy
 - Collector that collects energy from the sun
